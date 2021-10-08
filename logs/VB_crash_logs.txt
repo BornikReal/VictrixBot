@@ -1,0 +1,55 @@
+﻿2021-09-28 19:19:04|Bot not found
+2021-09-28 19:19:04|{"text":"You\u0027re not allowed to spam in chat!"}
+2021-09-28 19:19:06|Bot not found
+2021-09-28 19:19:08|Bot not found
+2021-09-28 19:19:10|Bot not found
+2021-09-28 19:19:12|Bot not found
+2021-09-28 19:19:14|Bot not found
+2021-09-28 19:19:14|{"text":"You\u0027re not allowed to spam in chat!"}
+2021-09-28 19:19:16|Bot not found
+2021-09-28 19:20:13|Bot not found
+2021-09-28 19:20:17|Bot not found
+2021-09-28 19:24:03|Updating error
+2021-09-28 19:31:01|{"text":"§cТы кикнут\n§cКик выдал: Adrian_Silva\n§cПричина: test"}
+2021-09-28 19:31:45|{"text":"§cТы забанен на 15 секунд\n§cБан выдал: Adrian_Silva\n§cПричина: test\n§cКупи разбан на §3minecorp.ru/donate"}
+2021-09-28 19:33:11|Bot not found
+2021-09-28 19:33:38|Bot not found
+2021-09-28 19:42:03|Minecorp.ru is not available
+2021-09-28 19:42:04|Bot not found
+2021-09-28 19:42:07|Bot not found
+2021-09-28 19:42:41|Bot not found
+2021-09-28 19:42:43|Bot not found
+2021-09-28 19:42:44|Bot not found
+2021-09-28 19:54:29|Bot not found
+2021-09-30 18:01:47|Minecorp.ru is not available
+2021-09-30 18:02:02|Minecorp.ru is not available
+2021-09-30 18:02:18|Minecorp.ru is not available
+2021-09-30 18:07:38|Minecorp.ru is not available
+2021-10-05 19:15:46|Updating error
+2021-10-06 21:10:50|Bot not found
+2021-10-06 21:42:56|Error: read ECONNRESET
+[90m    at TCP.onStreamRead (node:internal/stream_base_commons:220:20)[39m {
+  [94merrno[39m: [33m-4077[39m,
+  [94mcode[39m: [32m'ECONNRESET'[39m,
+  [94msyscall[39m: [32m'read'[39m
+}
+2021-10-06 22:27:29|Updating error
+2021-10-06 22:27:30|Updating error
+2021-10-06 22:27:31|Updating error
+2021-10-06 22:27:32|Updating error
+2021-10-06 22:27:33|Updating error
+2021-10-06 22:27:34|Updating error
+2021-10-06 22:27:35|Updating error
+2021-10-06 22:27:36|Updating error
+2021-10-06 22:27:37|Updating error
+2021-10-06 22:27:38|Updating error
+2021-10-06 22:27:40|Updating error
+2021-10-06 22:27:41|Updating error
+2021-10-06 22:27:42|Updating error
+2021-10-06 22:27:43|Updating error
+2021-10-06 22:27:44|Updating error
+2021-10-06 22:27:45|Updating error
+2021-10-06 22:27:46|Updating error
+2021-10-06 22:27:47|Updating error
+2021-10-06 22:27:48|Updating error
+2021-10-06 22:31:54|{"color":"red","text":"You are already connected to this proxy!"}

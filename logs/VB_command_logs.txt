@@ -1,0 +1,160 @@
+﻿2021-09-28 19:36:40|VictrixBot использовал(а) команду: update
+2021-09-28 19:36:49|Adrian_Silva использовал(а) команду: ping
+2021-09-28 19:36:54|kenny1 использовал(а) команду: baltop
+2021-09-28 19:36:57|kenny1 использовал(а) команду: baltop
+2021-09-28 19:36:59|kenny1 использовал(а) команду: baltop
+2021-09-28 19:37:01|kenny1 использовал(а) команду: baltop
+2021-09-28 19:37:03|kenny1 использовал(а) команду: baltop
+2021-09-28 19:41:07|VictrixBot использовал(а) команду: addbal Ангел 1
+2021-09-28 19:41:10|VictrixBot использовал(а) команду: update
+2021-09-28 19:41:17|Adrian_Silva использовал(а) команду: ping
+2021-09-28 19:41:20|kenny1 использовал(а) команду: bal
+2021-09-28 19:53:05|VictrixBot использовал(а) команду: addbal Adrian_Silva 1
+2021-09-28 19:53:07|VictrixBot использовал(а) команду: addbal makskuk1 1
+2021-09-28 19:53:09|VictrixBot использовал(а) команду: addbal Ангел 1
+2021-09-28 19:53:12|VictrixBot использовал(а) команду: update
+2021-09-28 19:53:25|makskuk1 использовал(а) команду: baltop
+2021-09-28 19:53:27|makskuk1 использовал(а) команду: baltop
+2021-09-28 19:53:29|makskuk1 использовал(а) команду: baltop
+2021-09-28 19:53:39|Adrian_Silva использовал(а) команду: ping
+2021-09-28 19:53:41|Adrian_Silva использовал(а) команду: bal
+2021-09-28 19:53:46|Adrian_Silva использовал(а) команду: baltop
+2021-09-28 19:53:48|Adrian_Silva использовал(а) команду: baltop
+2021-09-28 19:53:50|Adrian_Silva использовал(а) команду: baltop
+2021-09-28 19:54:41|VictrixBot использовал(а) команду: addbal kenny1 1
+2021-09-28 19:54:47|Adrian_Silva использовал(а) команду: addbal Adrian_Silva 10
+2021-09-28 19:54:53|Adrian_Silva использовал(а) команду: bal
+2021-09-28 19:55:05|kenny1 использовал(а) команду: bal
+2021-09-28 19:57:07|VictrixBot использовал(а) команду: update
+2021-09-28 19:59:35|VictrixBot использовал(а) команду: update
+2021-09-28 20:17:34|VictrixBot использовал(а) команду: update
+2021-09-28 20:18:49|VictrixBot использовал(а) команду: update
+2021-09-28 20:22:36|VictrixBot использовал(а) команду: update
+2021-09-28 20:25:25|VictrixBot использовал(а) команду: update
+2021-09-28 20:29:37|VictrixBot использовал(а) команду: update
+2021-09-28 20:34:26|VictrixBot использовал(а) команду: addbal Adrian_Silva 1
+2021-09-28 20:34:28|VictrixBot использовал(а) команду: addbal Ангел 1
+2021-09-28 20:34:30|VictrixBot использовал(а) команду: addbal kenny1 1
+2021-09-28 20:34:33|VictrixBot использовал(а) команду: update
+2021-09-28 20:34:44|Adrian_Silva использовал(а) команду: ping
+2021-09-30 18:02:18|VictrixBot использовал(а) команду: update
+2021-09-30 18:11:23|VictrixBot использовал(а) команду: addbal Adrian_Silva 1
+2021-09-30 18:12:33|Adrian_Silva использовал(а) команду: info
+2021-09-30 18:12:36|Adrian_Silva использовал(а) команду: ping
+2021-09-30 18:13:01|VictrixBot использовал(а) команду: op Adrian_Silva
+2021-09-30 18:13:07|Adrian_Silva использовал(а) команду: addbal Adrian_Silva 1
+2021-09-30 18:13:27|Adrian_Silva использовал(а) команду: safemode
+2021-09-30 18:13:42|Adrian_Silva использовал(а) команду: ping
+2021-09-30 18:13:49|Adrian_Silva использовал(а) команду: baltop
+2021-09-30 18:14:40|VictrixBot использовал(а) команду: addbal Adrian_Silva 1
+2021-09-30 18:14:47|VictrixBot использовал(а) команду: op JaroIs
+2021-09-30 18:14:51|VictrixBot использовал(а) команду: safemode
+2021-09-30 18:15:01|Adrian_Silva использовал(а) команду: op JaroIs
+2021-09-30 18:15:08|Adrian_Silva использовал(а) команду: addbal Adrian_Silva 1
+2021-09-30 18:15:14|Adrian_Silva использовал(а) команду: update
+2021-09-30 18:18:24|Adrian_Silva использовал(а) команду: op Ангел
+2021-09-30 18:18:35|Adrian_Silva использовал(а) команду: baltop
+2021-09-30 18:18:50|Adrian_Silva использовал(а) команду: resetbal
+2021-09-30 18:18:55|Adrian_Silva использовал(а) команду: resetbal Adrian_Silva
+2021-09-30 18:18:55|Adrian_Silva использовал(а) команду: resetbal Adrian_Silva
+2021-09-30 18:23:58|Adrian_Silva использовал(а) команду: restart
+2021-09-30 18:24:20|Adrian_Silva использовал(а) команду: ping
+2021-09-30 18:24:22|Adrian_Silva использовал(а) команду: restart
+2021-09-30 18:25:06|Adrian_Silva использовал(а) команду: ping
+2021-10-02 17:55:16|VictrixBot использовал(а) команду: addbal Adrian_Silva 1
+2021-10-02 17:55:18|VictrixBot использовал(а) команду: addbal Ангел 1
+2021-10-02 17:55:20|VictrixBot использовал(а) команду: addbal kenny1 1
+2021-10-02 17:55:22|VictrixBot использовал(а) команду: addbal Valeriya_Saint 1
+2021-10-02 17:59:15|VictrixBot использовал(а) команду: addbal Adrian_Silva 1
+2021-10-02 17:59:17|VictrixBot использовал(а) команду: addbal Ангел 1
+2021-10-02 17:59:19|VictrixBot использовал(а) команду: addbal kenny1 1
+2021-10-02 17:59:21|VictrixBot использовал(а) команду: addbal Valeriya_Saint 1
+2021-10-05 18:08:48|VictrixStatBot использовал(а) команду: addbal kenny1 1
+2021-10-05 18:09:32|Adrian_Silva использовал(а) команду: bal
+2021-10-05 18:09:35|Adrian_Silva использовал(а) команду: ping
+2021-10-05 18:09:38|VictrixStatBot использовал(а) команду: addbal Adrian_Silva 1
+2021-10-05 18:09:44|Adrian_Silva использовал(а) команду: pay kenny1 10
+2021-10-05 18:09:49|Adrian_Silva использовал(а) команду: bal
+2021-10-05 18:10:44|Adrian_Silva использовал(а) команду: pay kenny1 10
+2021-10-05 18:10:48|Adrian_Silva использовал(а) команду: bal
+2021-10-05 18:11:12|Adrian_Silva использовал(а) команду: addbal Adrian_Silva 20
+2021-10-05 18:11:43|Adrian_Silva использовал(а) команду: update
+2021-10-05 18:12:06|Adrian_Silva использовал(а) команду: delbal kenny1 1
+2021-10-05 18:12:10|Adrian_Silva использовал(а) команду: update
+2021-10-05 18:29:26|VictrixStatBot использовал(а) команду: addbal Adrian_Silva 1
+2021-10-05 18:29:28|VictrixStatBot использовал(а) команду: addbal kenny1 1
+2021-10-05 18:30:21|VictrixStatBot использовал(а) команду: addbal Adrian_Silva 1
+2021-10-05 18:30:23|VictrixStatBot использовал(а) команду: addbal kenny1 1
+2021-10-05 18:31:02|VictrixStatBot использовал(а) команду: addbal Adrian_Silva 1
+2021-10-05 18:31:04|VictrixStatBot использовал(а) команду: addbal kenny1 1
+2021-10-05 18:31:53|VictrixStatBot использовал(а) команду: addbal Adrian_Silva 1
+2021-10-05 18:31:55|VictrixStatBot использовал(а) команду: addbal kenny1 1
+2021-10-05 18:41:37|VictrixStatBot использовал(а) команду: addbal Adrian_Silva 4
+2021-10-05 18:41:39|VictrixStatBot использовал(а) команду: addbal kenny1 6
+2021-10-05 18:42:30|VictrixStatBot использовал(а) команду: addbal Adrian_Silva 1
+2021-10-05 18:42:32|VictrixStatBot использовал(а) команду: addbal kenny1 1
+2021-10-05 18:43:35|VictrixStatBot использовал(а) команду: addbal Adrian_Silva 3
+2021-10-05 18:43:37|VictrixStatBot использовал(а) команду: addbal kenny1 4
+2021-10-05 18:44:10|VictrixStatBot использовал(а) команду: update
+2021-10-05 19:12:41|Adrian_Silva использовал(а) команду: ping
+2021-10-05 19:13:00|VictrixStatBot использовал(а) команду: op Adrian_silva
+2021-10-05 19:13:08|Adrian_Silva использовал(а) команду: taskc Adrian_Silva 1
+2021-10-05 19:13:23|Adrian_Silva использовал(а) команду: bal
+2021-10-05 19:13:39|Adrian_Silva использовал(а) команду: tasku Adrian_Silva 1
+2021-10-05 19:13:42|Adrian_Silva использовал(а) команду: bal
+2021-10-05 19:15:31|Adrian_Silva использовал(а) команду: ping
+2021-10-05 19:15:33|Adrian_Silva использовал(а) команду: ping
+2021-10-05 19:15:36|Adrian_Silva использовал(а) команду: ping
+2021-10-05 19:17:54|Adrian_Silva использовал(а) команду: ping
+2021-10-05 19:17:56|Adrian_Silva использовал(а) команду: ping
+2021-10-05 19:18:13|Adrian_Silva использовал(а) команду: taskc Adrian_Silva 1
+2021-10-05 19:18:16|Adrian_Silva использовал(а) команду: bal
+2021-10-05 19:18:25|Adrian_Silva использовал(а) команду: tasku Adrian_Silva 1
+2021-10-05 19:20:03|Adrian_Silva использовал(а) команду: taskc Adrian_Silva 1
+2021-10-05 19:20:07|Adrian_Silva использовал(а) команду: tasku Adrian_Silva 1
+2021-10-05 19:27:23|Adrian_Silva использовал(а) команду: ping
+2021-10-05 19:27:37|Adrian_Silva использовал(а) команду: kvinboost Adrian_Silva 2 200
+2021-10-05 19:27:43|Adrian_Silva использовал(а) команду: seen
+2021-10-05 19:27:54|Adrian_Silva использовал(а) команду: seen
+2021-10-05 19:28:07|Adrian_Silva использовал(а) команду: update
+2021-10-05 19:28:39|Adrian_Silva использовал(а) команду: ping
+2021-10-05 19:28:43|Adrian_Silva использовал(а) команду: seen
+2021-10-05 19:33:17|Adrian_Silva использовал(а) команду: ping
+2021-10-05 19:33:21|Adrian_Silva использовал(а) команду: seen
+2021-10-05 19:33:40|Adrian_Silva использовал(а) команду: kvinboost Adrian_Silva
+2021-10-05 19:33:42|Adrian_Silva использовал(а) команду: seen
+2021-10-06 21:42:56|VictrixStatBot использовал(а) команду: addbal makskuk1 1
+2021-10-06 22:26:39|VictrixStatBot использовал(а) команду: addbal Adrian_Silva 1
+2021-10-06 22:26:41|VictrixStatBot использовал(а) команду: addbal Ангел 1
+2021-10-06 22:27:37|VictrixStatBot использовал(а) команду: addbal makskuk1 1
+2021-10-06 22:31:17|VictrixStatBot использовал(а) команду: addbal Adrian_Silva 1
+2021-10-06 22:31:19|VictrixStatBot использовал(а) команду: addbal Ангел 1
+2021-10-06 22:31:26|VictrixStatBot использовал(а) команду: update
+2021-10-06 22:34:13|VictrixStatBot использовал(а) команду: op Adrian_Silva
+2021-10-06 22:34:19|Adrian_Silva использовал(а) команду: kvinboost Adrian_Silva 2 3600
+2021-10-06 22:34:46|VictrixStatBot использовал(а) команду: update
+2021-10-06 22:38:29|Adrian_Silva использовал(а) команду: seen
+2021-10-06 22:38:39|Adrian_Silva использовал(а) команду: kvinboost Adrian_Silva 2 3600
+2021-10-06 22:38:45|Adrian_Silva использовал(а) команду: seen
+2021-10-06 22:40:06|Adrian_Silva использовал(а) команду: seen
+2021-10-06 22:40:11|Adrian_Silva использовал(а) команду: kvinboost Adrian_Silva 2 3600
+2021-10-06 22:41:03|Adrian_Silva использовал(а) команду: seen
+2021-10-06 22:41:07|Adrian_Silva использовал(а) команду: kvinboost Adrian_Silva 2 3600
+2021-10-06 22:41:23|Adrian_Silva использовал(а) команду: kvinboost Adrian_Silva 2 3600
+2021-10-06 22:42:07|Adrian_Silva использовал(а) команду: seen
+2021-10-06 22:42:12|Adrian_Silva использовал(а) команду: kvinboost Adrian_Silva 2 3600
+2021-10-06 22:43:25|Adrian_Silva использовал(а) команду: kvinboost Adrian_Silva 2 3600
+2021-10-06 22:43:39|Adrian_Silva использовал(а) команду: kvinboost Adrian_Silva 2 3600
+2021-10-06 22:44:25|Adrian_Silva использовал(а) команду: kvinboost Adrian_Silva 2 3600
+2021-10-06 22:44:59|Adrian_Silva использовал(а) команду: kvinboost Adrian_Silva 2 3600
+2021-10-06 22:50:39|Adrian_Silva использовал(а) команду: kvinboost Adrian_Silva 2 3600
+2021-10-06 22:50:43|Adrian_Silva использовал(а) команду: seen
+2021-10-06 22:51:07|Adrian_Silva использовал(а) команду: taskc Adrian_Silva 1
+2021-10-06 22:51:13|Adrian_Silva использовал(а) команду: taskc Adrian_Silva 2
+2021-10-06 22:51:23|Adrian_Silva использовал(а) команду: kvinboost Adrian_Silva
+2021-10-06 22:52:08|Adrian_Silva использовал(а) команду: tasku Adrian_Silva 2
+2021-10-06 22:52:13|Adrian_Silva использовал(а) команду: tasku Adrian_Silva 1
+2021-10-06 22:52:25|Adrian_Silva использовал(а) команду: kvinboost Adrian_Silva 2 60
+2021-10-06 22:52:44|Adrian_Silva использовал(а) команду: taskc Adrian_Silva 1
+2021-10-06 22:53:09|Adrian_Silva использовал(а) команду: seen
+2021-10-06 22:53:20|Adrian_Silva использовал(а) команду: tasku Adrian_Silva 1
