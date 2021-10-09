@@ -34,7 +34,7 @@ def logadderror(errmes):
     f.close()
 
 
-BOT_USERNAME = "VictrixStatBot"
+BOT_USERNAME = "VictrixBot"
 settings = [2, 3600, 1, 1, 0, 7]
 if datetime.datetime.today().weekday() != 5:
     tasks = [2, 3, 1, 1, 1]
