@@ -185,6 +185,10 @@ def updatelist():
                            str(settings[3] * i[5]) + "₭ за ежедневный вход!"))
     except BaseException:
         print("Updating error")
+    if datetime.datetime.today().weekday() != 5:
+        tasks = [2, 3, 1, 1, 1]
+    else:
+        tasks = [5, 1, 1, 1]
     alllist = ParseMC(False)
     new_list_of_users = alllist[0]
     new_tasks_of_users = alllist[1]
